@@ -18,7 +18,9 @@ How to receive data (using ZeroMQ):
 
 ![receive](https://user-images.githubusercontent.com/91433409/199150940-318e1473-c36c-4f5e-a3d0-5cb74bc54274.PNG)
 
-example: ![sentence](https://user-images.githubusercontent.com/91433409/199151267-e32bd608-d4b7-4fdc-a103-cecf8d6fceb9.PNG)
+example:
+
+![sentence](https://user-images.githubusercontent.com/91433409/199151267-e32bd608-d4b7-4fdc-a103-cecf8d6fceb9.PNG)
 
 UML Sequence Diagram: 
 
