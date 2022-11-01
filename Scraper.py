@@ -105,10 +105,9 @@ socket.bind("tcp://*:3000")
 while True:
     #  Wait for next request from client
     code = socket.recv_string()
-    print(code)
     sentence = str(wiki_scrape(code))
 
-    #  Do some 'work'
+    #  Waiting (can remove if you want)
     time.sleep(1)
 
     #  Send reply back to client
